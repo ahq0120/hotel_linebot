@@ -14,6 +14,8 @@
 
 * 各項功能介紹
 
+> 圖文表單功能1(左上角)
+
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%90%84%E9%A0%85%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%B4%B9.jpg" width = "30%" >
 
 ****
