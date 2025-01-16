@@ -4,6 +4,10 @@
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8A%A0%E5%85%A5%E5%A5%BD%E5%8F%8B.jpg" width = "30%" >
 
+> 加入後會將用戶的line資訊寫入資料庫
+
+![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E7%94%A8%E6%88%B6%E8%B3%87%E6%96%99%E5%BA%AB.png)
+
 ****
 
 * 歡迎訊息
@@ -80,7 +84,19 @@
 
 ****
 
-![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E7%94%A8%E6%88%B6%E8%B3%87%E6%96%99%E5%BA%AB.png)
+* 聯絡資訊
+
+> 圖文表單功能6(右下)
+
+<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E8%81%AF%E7%B5%A1%E8%B3%87%E8%A8%8A.jpg" width = "30%" >
+
+> 點選撥打電話
+
+<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E6%92%A5%E6%89%93%E9%9B%BB%E8%A9%B1.jpg" width = "30%" >
+
+****
+
+
 
 
 
@@ -88,13 +104,13 @@
 
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E6%8E%A8%E6%92%AD%E5%AF%86%E7%A2%BC.jpg" width = "30%" >
-<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E6%92%A5%E6%89%93%E9%9B%BB%E8%A9%B1.jpg" width = "30%" >
 
 
 
 
 
-<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E8%81%AF%E7%B5%A1%E8%B3%87%E8%A8%8A.jpg" width = "30%" >
+
+
 
 
 
