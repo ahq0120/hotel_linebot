@@ -1,7 +1,8 @@
 # 訂房管家
 
+<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8A%A0%E5%85%A5%E5%A5%BD%E5%8F%8B.jpg" width = "30%" >
 ![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E4%BD%8F%E5%AE%BF%E8%B3%87%E6%96%99%E5%BA%AB.png)
-![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8A%A0%E5%85%A5%E5%A5%BD%E5%8F%8B.jpg.100*200)
+![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8A%A0%E5%85%A5%E5%A5%BD%E5%8F%8B.jpg)
 ![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E6%9C%89%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg)
 ![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E7%84%A1%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg)
 ![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF%E6%88%90%E5%8A%9F.jpg)
