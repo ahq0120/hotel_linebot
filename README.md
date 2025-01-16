@@ -14,7 +14,7 @@
 
 * 各項功能介紹
 
-> 圖文表單功能1(左上角)
+> 圖文表單功能1(左上)
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%90%84%E9%A0%85%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%B4%B9.jpg" width = "30%" >
 
@@ -40,7 +40,13 @@
 
 ****
 
+* 取消訂房
 
+> 圖文表單功能3(右上)
+
+<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E6%9C%89%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg" width = "30%" >
+
+****
 
 
 
@@ -60,7 +66,7 @@
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E8%81%AF%E7%B5%A1%E8%B3%87%E8%A8%8A.jpg" width = "30%" >
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.jpg" width = "30%" >
-<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E9%A0%90%E7%B4%84%E6%88%90%E5%8A%9F%E8%A8%8A%E6%81%AF.jpg" width = "30%" >
 
-<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E6%9C%89%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg" width = "30%" >
+
+
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E7%84%A1%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg" width = "30%" >
