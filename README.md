@@ -1,6 +1,6 @@
 # 訂房管家
 
-**加入好友**
+* 加入好友
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8A%A0%E5%85%A5%E5%A5%BD%E5%8F%8B.jpg" width = "30%" >
 
