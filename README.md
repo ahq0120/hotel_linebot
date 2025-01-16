@@ -56,19 +56,19 @@
 
 > 訂房資料會從資料庫刪除
 
-![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E7%94%A8%E6%88%B6%E8%B3%87%E6%96%99%E5%BA%AB.png)
+![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%B3%87%E6%96%99%E5%BA%AB.png)
 
 > 若無訂房紀錄點選取消訂房
 
-![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%B3%87%E6%96%99%E5%BA%AB.png)
+<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E7%84%A1%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg" width = "30%" >
 
 ****
 
 
 
+![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E7%94%A8%E6%88%B6%E8%B3%87%E6%96%99%E5%BA%AB.png)
 
 
-<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E7%84%A1%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg" width = "30%" >
 
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%9C%B0%E5%9D%80.jpg" width = "30%" >
