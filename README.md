@@ -46,11 +46,27 @@
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E6%9C%89%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg" width = "30%" >
 
+> 選擇否
+
+<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E6%94%BE%E6%A3%84%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF.jpg" width = "30%" >
+
+> 選擇是
+
+<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF%E6%88%90%E5%8A%9F.jpg" width = "30%" >
+
+> 訂房資料會從資料庫刪除
+
+![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E7%94%A8%E6%88%B6%E8%B3%87%E6%96%99%E5%BA%AB.png)
+
+> 若無訂房紀錄點選取消訂房
+
+<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E7%84%A1%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg" width = "30%" >
+
 ****
 
 
 
-<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF%E6%88%90%E5%8A%9F.jpg" width = "30%" >
+
 
 ![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%B3%87%E6%96%99%E5%BA%AB.png)
 
@@ -59,14 +75,14 @@
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E6%8E%A8%E6%92%AD%E5%AF%86%E7%A2%BC.jpg" width = "30%" >
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E6%92%A5%E6%89%93%E9%9B%BB%E8%A9%B1.jpg" width = "30%" >
-<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E6%94%BE%E6%A3%84%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF.jpg" width = "30%" >
 
 
-![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E7%94%A8%E6%88%B6%E8%B3%87%E6%96%99%E5%BA%AB.png)
+
+
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E8%81%AF%E7%B5%A1%E8%B3%87%E8%A8%8A.jpg" width = "30%" >
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91.jpg" width = "30%" >
 
 
 
-<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E7%84%A1%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg" width = "30%" >
+
