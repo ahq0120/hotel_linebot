@@ -96,12 +96,9 @@
 
 ****
 
+* 推播
 
-
-
-
-
-
+> 輸入密碼後即可將訊息傳給所有用戶
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E6%8E%A8%E6%92%AD%E5%AF%86%E7%A2%BC.jpg" width = "30%" >
 
