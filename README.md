@@ -24,6 +24,7 @@
 
 > 圖文表單功能2(中上)
 
+<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E6%9C%89%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg" width = "30%" >
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E7%84%A1%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg" width = "30%" >
 
 ****
@@ -36,7 +37,7 @@
 
 ![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%B3%87%E6%96%99%E5%BA%AB.png)
 
-<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E6%9C%89%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg" width = "30%" >
+
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%9C%B0%E5%9D%80.jpg" width = "30%" >
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E6%88%BF%E9%96%93%E9%A0%90%E7%B4%84.jpg" width = "30%" >
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E6%8E%A8%E6%92%AD%E5%AF%86%E7%A2%BC.jpg" width = "30%" >
