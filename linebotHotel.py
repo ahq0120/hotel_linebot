@@ -123,7 +123,7 @@ def sendBooking(event, user_id):
             message = TemplateSendMessage(
                 alt_text = "房間預約",
                 template = ButtonsTemplate(
-                    thumbnail_image_url='https://imgur.com/a/eRPPJUD',
+                    thumbnail_image_url='https://imgur.com/orMynKv.jpg',
                     title='房間預約',
                     text='您目前沒有訂房記錄，可以開始預訂房間。',
                     actions=[
@@ -196,8 +196,8 @@ def sendAbout(event):
                 text = text1
             ),
             ImageSendMessage(
-                original_content_url = "https://imgur.com/M09L4cs",
-                preview_image_url = "https://imgur.com/M09L4cs"
+                original_content_url = "https://imgur.com/orMynKv.jpg",
+                preview_image_url = "https://imgur.com/orMynKv.jpg"
             ),
         ]
         line_bot_api.reply_message(event.reply_token,message)
@@ -227,7 +227,7 @@ def sendContact(event):
         message = TemplateSendMessage(
             alt_text = "聯絡我們",
             template = ButtonsTemplate(
-                thumbnail_image_url='https://imgur.com/M09L4cs',
+                thumbnail_image_url='https://imgur.com/orMynKv.jpg',
                 title='聯絡我們',
                 text='打電話給我們',
                 actions=[
