@@ -4,6 +4,8 @@
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8A%A0%E5%85%A5%E5%A5%BD%E5%8F%8B.jpg" width = "30%" >
 
+****
+
 * 歡迎訊息
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E6%AD%A1%E8%BF%8E%E8%A8%8A%E6%81%AF.jpg" width = "30%" >
