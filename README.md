@@ -20,9 +20,17 @@
 
 ****
 
-![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E4%BD%8F%E5%AE%BF%E8%B3%87%E6%96%99%E5%BA%AB.png)
+* 房間預約
+
+> 圖文表單功能2(中上)
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E6%9C%89%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg" width = "30%" >
+
+****
+
+![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E4%BD%8F%E5%AE%BF%E8%B3%87%E6%96%99%E5%BA%AB.png)
+
+
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF_%E7%84%A1%E8%A8%82%E6%88%BF%E7%B4%80%E9%8C%84.jpg" width = "30%" >
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E5%8F%96%E6%B6%88%E8%A8%82%E6%88%BF%E6%88%90%E5%8A%9F.jpg" width = "30%" >
 
