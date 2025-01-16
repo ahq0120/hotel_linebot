@@ -45,24 +45,24 @@
     			alert("退房日期不能小於等於進住日期！");
     			return;
     		}
-            var msg = "###";  //回傳訊息字串
+            var msg = "###";
             msg = msg + type + "/";
             msg = msg + amount + "/";
             msg = msg + in_datetime + "/";
             msg = msg + out_datetime + "/";
-			liff.sendMessages([  //推播訊息
+			liff.sendMessages([
 				{ type: 'text',
 				  text: msg
 				}
 			])
 				.then(() => {
-					liff.closeWindow();  //關閉視窗
+					liff.closeWindow();
 				});
 		}
 
 		$(document).ready(function () {
 			initializeLiff('{{ liffid }}');
-            $('#btn_reserve').click(function (e) {  //按下確定鈕
+            $('#btn_reserve').click(function (e) {
                 reserve($('#sel_type').val(), $('#txb_amount').val(), $('#in_datetime').val(), $('#out_datetime').val());
             });
 		});
