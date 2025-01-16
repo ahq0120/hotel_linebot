@@ -30,9 +30,17 @@
 
 <img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E9%A0%90%E7%B4%84%E8%A1%A8%E5%96%AE.jpg" width = "30%" >
 
-****
+> 預約成功
+
+<img src = "https://github.com/ahq0120/hotel_linebot/blob/main/media/%E9%A0%90%E7%B4%84%E6%88%90%E5%8A%9F%E8%A8%8A%E6%81%AF.jpg" width = "30%" >
+
+> 預約成功後將資料寫入資料庫
 
 ![GITHUB](https://github.com/ahq0120/hotel_linebot/blob/main/media/%E4%BD%8F%E5%AE%BF%E8%B3%87%E6%96%99%E5%BA%AB.png)
+
+****
+
+
 
 
 
